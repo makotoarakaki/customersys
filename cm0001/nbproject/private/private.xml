@@ -2,6 +2,14 @@
 <project-private xmlns="http://www.netbeans.org/ns/project-private/1">
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="4"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
-        <group/>
+        <group>
+            <file>file:/C:/Users/USER/custumersys/cm0001/fuel/app/config/development/db.php</file>
+            <file>file:/C:/Users/USER/custumersys/cm0001/fuel/app/tests/model/from_Test.php</file>
+            <file>file:/C:/Users/USER/custumersys/cm0001/fuel/app/classes/model/from.php</file>
+            <file>file:/C:/Users/USER/custumersys/cm0001/public/index.php</file>
+            <file>file:/C:/Users/USER/custumersys/cm0001/fuel/app/classes/controller/form.php</file>
+            <file>file:/C:/Users/USER/custumersys/cm0001/fuel/app/classes/controller/admin/from.php</file>
+            <file>file:/C:/Users/USER/custumersys/cm0001/fuel/app/migrations/001_create_froms.php</file>
+        </group>
     </open-files>
 </project-private>
